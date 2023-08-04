@@ -14,5 +14,4 @@ The client has requested a demonstration of how Digi-Guard will be able to prote
 | Ed Ayala | David Prutch | Carlos Rojas | Gerald Reitmeyer | Chris Bennett |
 |:----------------------:|:-----------------------:|:----------------------:|:----------------------:|:----------------------:|
 | [Linkedin](https://www.linkedin.com/in/eddie-ayala3/) 
-
 | [Linkedin](https://www.linkedin.com/in/carlos-rojass/)
