@@ -22,3 +22,7 @@ We have been contracted to improve the cybersecurity processes and systems for a
 
 
 ### Repositories 
+| [Cloud-Architecture Design](https://github.com/Digi-Guard/Cloud-Architecture-Design)
+| [Presentation](https://github.com/Digi-Guard/Presentation-Materials)
+| [Documentation](https://github.com/Digi-Guard/Documentation) |
+
