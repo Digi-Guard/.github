@@ -1,4 +1,4 @@
-# Welcome to Digi-Guard, the PREMIER Cloud Security Management Group!
+# Welcome to DigiGuard, the PREMIER Cloud Security Management Group!
 
 ## Meet our Team
 | Ed Ayala | David Prutch | Carlos Rojas | Gerald Reitmeyer | Chris Bennett |
