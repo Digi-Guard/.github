@@ -20,7 +20,7 @@ DigiGuard is a ficticious organization created as part of a course project. Our 
 
 ## Problem Domain:
 
-We have been contracted by our client company,Compu-Global-Hyper-Mega-Net, to improve the cybersecurity processes and systems of their AWS Cloud resources with a focus on logging, monitoring and detection of adversarial activity on cloud infrastructure. The client has requested a demonstration of how Digi-Guard will be able to protect its cloud infrastructure.  
+We have been contracted by our client company, Compu-Global-Hyper-Mega-Net, to improve the cybersecurity processes and systems of their AWS Cloud resources with a focus on logging, monitoring and detection of adversarial activity on cloud infrastructure. The client has requested a demonstration of how Digi-Guard will be able to protect its cloud infrastructure.  
 
 <BR>
 
