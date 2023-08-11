@@ -16,7 +16,7 @@
 <BR>
 
 ## Purpose
-DigiGuard is a ficticious organization created as part of a course project. Our group is currently enrolled at [CodeFellows](https://www.codefellows.org/) in the Cyber Security Engineering program with a schedule completion date of September 9, 2023.
+DigiGuard is a ficticious organization created as part of a course project. Our group is currently enrolled at [CodeFellows](https://www.codefellows.org/) in the Cyber Security Engineering program with a schedule completion date of September 15, 2023.
 
 ## Problem Domain:
 
