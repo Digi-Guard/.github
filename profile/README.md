@@ -30,6 +30,7 @@ AWS Infrastructure:
 * Utilized AWS Guard Duty to monitor API calls within the AWS management environment.
 * Utilized Cloud Formation to implement infrastructure as code to create Logs, metrics, alarms and alert messages regarding suspicious activity across the AWS management environment and the Virtual Private Cloud environment. 
 * CloudTrail and Cloudwatch have been instigated for security monitoring.
+
 Virtual Private Cloud
 * Private EC2 CIS compliant Windows server with VPN only access and hard drive encryption.
 * Public CIS compliant Linux Data server with hard drive encryption
